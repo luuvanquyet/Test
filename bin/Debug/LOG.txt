@@ -1,0 +1,326 @@
+
+[4:28:08 PM Tuesday, July 20, 2021]	 System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Data\00_KDTVN Common(KDTVN共通)\⑥Parts Quality Control(部品ＱＣ)\Supplier  Data\0250000075\302NR04620_210713_LOT210713.xlsx'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in D:\01.Project Visual\AutoCopy\Program.cs:line 56
+-----------------------
+
+[4:28:19 PM Tuesday, July 20, 2021]	 System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Data\00_KDTVN Common(KDTVN共通)\⑥Parts Quality Control(部品ＱＣ)\Supplier  Data\0250000075\302NR04620_210713_LOT210713.xlsx'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in D:\01.Project Visual\AutoCopy\Program.cs:line 56
+-----------------------
+
+[4:28:27 PM Tuesday, July 20, 2021]	 System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Data\00_KDTVN Common(KDTVN共通)\⑥Parts Quality Control(部品ＱＣ)\Supplier  Data\0250000075\302NR04620_210713_LOT210713.xlsx'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in D:\01.Project Visual\AutoCopy\Program.cs:line 56
+-----------------------
+
+[4:28:32 PM Tuesday, July 20, 2021]	 System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Data\00_KDTVN Common(KDTVN共通)\⑥Parts Quality Control(部品ＱＣ)\Supplier  Data\0250000075\302NR04620_210713_LOT210713.xlsx'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in D:\01.Project Visual\AutoCopy\Program.cs:line 56
+-----------------------
+
+[4:28:36 PM Tuesday, July 20, 2021]	 System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Data\00_KDTVN Common(KDTVN共通)\⑥Parts Quality Control(部品ＱＣ)\Supplier  Data\0250000075\302NR04620_210713_LOT210713.xlsx'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in D:\01.Project Visual\AutoCopy\Program.cs:line 56
+-----------------------
+
+[4:28:52 PM Tuesday, July 20, 2021]	 System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Data\00_KDTVN Common(KDTVN共通)\⑥Parts Quality Control(部品ＱＣ)\Supplier  Data\0250000075\302NR04620_210713_LOT210713.xlsx'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in D:\01.Project Visual\AutoCopy\Program.cs:line 56
+-----------------------
+
+[4:54:09 PM Tuesday, July 20, 2021]	 System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Data\00_KDTVN Common(KDTVN共通)\⑥Parts Quality Control(部品ＱＣ)\Supplier  Data\0250000075\302NR04620_210713_LOT210713.xlsx'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in D:\01.Project Visual\AutoCopy\Program.cs:line 56
+-----------------------
+
+[11:41:20 PM Tuesday, July 20, 2021]	 Copy data is not exist!!
+-----------------------
+
+[11:41:27 PM Tuesday, July 20, 2021]	 Copy data is not exist!!
+-----------------------
+
+[11:43:34 PM Tuesday, July 20, 2021]	 Copy data is not exist!!
+-----------------------
+
+[11:52:25 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000060
+-----------------------
+
+[11:52:25 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000075
+-----------------------
+
+[11:52:25 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001478
+-----------------------
+
+[11:52:25 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001616
+-----------------------
+
+[11:52:25 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250003213
+-----------------------
+
+[11:52:25 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\AU01107907
+-----------------------
+
+[11:52:25 PM Tuesday, July 20, 2021]	 Copy data is not exist!!
+-----------------------
+
+[11:53:59 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000060
+-----------------------
+
+[11:54:15 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000075
+-----------------------
+
+[11:54:21 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001478
+-----------------------
+
+[11:54:28 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001616
+-----------------------
+
+[11:55:11 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000060
+-----------------------
+
+[11:55:14 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000075
+-----------------------
+
+[11:55:19 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001478
+-----------------------
+
+[11:55:26 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001616
+-----------------------
+
+[11:55:29 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250003213
+-----------------------
+
+[11:55:33 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\AU01107907
+-----------------------
+
+[11:55:34 PM Tuesday, July 20, 2021]	 Copy data is not exist!!
+-----------------------
+
+[11:57:22 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000060
+-----------------------
+
+[11:57:22 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000075
+-----------------------
+
+[11:57:22 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001478
+-----------------------
+
+[11:57:22 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001616
+-----------------------
+
+[11:57:22 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250003213
+-----------------------
+
+[11:57:22 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\AU01107907
+-----------------------
+
+[11:57:22 PM Tuesday, July 20, 2021]	 Copy data completed successfully!!
+File copied: 24
+-----------------------
+
+[11:58:37 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000060
+-----------------------
+
+[11:58:37 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000075
+-----------------------
+
+[11:58:37 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001478
+-----------------------
+
+[11:58:37 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001616
+-----------------------
+
+[11:58:37 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250003213
+-----------------------
+
+[11:58:37 PM Tuesday, July 20, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\AU01107907
+-----------------------
+
+[11:58:37 PM Tuesday, July 20, 2021]	 Copy data completed successfully!!
+File copied: 24
+-----------------------
+
+[12:01:24 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000060
+-----------------------
+
+[12:01:24 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000075
+-----------------------
+
+[12:01:24 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001478
+-----------------------
+
+[12:01:24 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001616
+-----------------------
+
+[12:01:24 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250003213
+-----------------------
+
+[12:01:24 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\AU01107907
+-----------------------
+
+[12:01:24 AM Wednesday, July 21, 2021]	 Copy data completed successfully!!
+File copied: 24
+-----------------------
+
+[12:04:16 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000060
+-----------------------
+
+[12:04:16 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000075
+-----------------------
+
+[12:04:16 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001478
+-----------------------
+
+[12:04:16 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001616
+-----------------------
+
+[12:04:16 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250003213
+-----------------------
+
+[12:04:16 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\AU01107907
+-----------------------
+
+[12:04:16 AM Wednesday, July 21, 2021]	 Copy data completed successfully!!
+File copied: 24
+-----------------------
+
+[12:09:08 AM Wednesday, July 21, 2021]	 System.IO.IOException: The target file "D:\Test\Desc\0250000060" is a directory, not a file.
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in C:\Users\Admin\Desktop\AutoCopy\AutoCopy\Program.cs:line 46
+-----------------------
+
+[12:09:18 AM Wednesday, July 21, 2021]	 System.IO.IOException: The target file "D:\Test\Desc\0250000060" is a directory, not a file.
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in C:\Users\Admin\Desktop\AutoCopy\AutoCopy\Program.cs:line 46
+-----------------------
+
+[12:09:40 AM Wednesday, July 21, 2021]	 System.IO.IOException: The target file "D:\Test\Desc\0250000060" is a directory, not a file.
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in C:\Users\Admin\Desktop\AutoCopy\AutoCopy\Program.cs:line 46
+-----------------------
+
+[12:09:59 AM Wednesday, July 21, 2021]	 System.IO.IOException: The target file "D:\Test\Desc\0250000060" is a directory, not a file.
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in C:\Users\Admin\Desktop\AutoCopy\AutoCopy\Program.cs:line 46
+-----------------------
+
+[12:10:38 AM Wednesday, July 21, 2021]	 System.IO.IOException: The target file "D:\Test\Desc\0250000060" is a directory, not a file.
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at AutoCopy.Program.Main() in C:\Users\Admin\Desktop\AutoCopy\AutoCopy\Program.cs:line 46
+-----------------------
+
+[12:13:40 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000060
+-----------------------
+
+[12:13:40 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000075
+-----------------------
+
+[12:13:40 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001478
+-----------------------
+
+[12:13:40 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001616
+-----------------------
+
+[12:13:40 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250003213
+-----------------------
+
+[12:13:40 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\AU01107907
+-----------------------
+
+[12:13:40 AM Wednesday, July 21, 2021]	 Copy data completed successfully!!
+File copied: 24
+-----------------------
+
+[12:14:08 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000060
+-----------------------
+
+[12:14:08 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250000075
+-----------------------
+
+[12:14:08 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001478
+-----------------------
+
+[12:14:08 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250001616
+-----------------------
+
+[12:14:08 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\0250003213
+-----------------------
+
+[12:14:08 AM Wednesday, July 21, 2021]	 Copy data OK!!
+Source path: D:\Test\Src\AU01107907
+-----------------------
+
+[12:14:08 AM Wednesday, July 21, 2021]	 Copy data completed successfully!!
+File copied: 24
+-----------------------

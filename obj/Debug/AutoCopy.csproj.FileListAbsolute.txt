@@ -1,0 +1,27 @@
+D:\04. KDTVN Project\1. C#\1. Auto Copy File\AutoCopy\bin\Debug\AutoCopy.exe.config
+D:\04. KDTVN Project\1. C#\1. Auto Copy File\AutoCopy\bin\Debug\AutoCopy.exe
+D:\04. KDTVN Project\1. C#\1. Auto Copy File\AutoCopy\bin\Debug\AutoCopy.pdb
+D:\04. KDTVN Project\1. C#\1. Auto Copy File\AutoCopy\obj\Debug\AutoCopy.Properties.Resources.resources
+D:\04. KDTVN Project\1. C#\1. Auto Copy File\AutoCopy\obj\Debug\AutoCopy.csproj.GenerateResource.cache
+D:\04. KDTVN Project\1. C#\1. Auto Copy File\AutoCopy\obj\Debug\AutoCopy.csproj.CoreCompileInputs.cache
+D:\04. KDTVN Project\1. C#\1. Auto Copy File\AutoCopy\obj\Debug\AutoCopy.exe
+D:\04. KDTVN Project\1. C#\1. Auto Copy File\AutoCopy\obj\Debug\AutoCopy.pdb
+D:\04. KDTVN Project\1. C#\1. Auto Copy File\AutoCopy\obj\Debug\AutoCopy.csprojAssemblyReference.cache
+D:\01.Project Visual\AutoCopy\bin\Debug\AutoCopy.exe.config
+D:\01.Project Visual\AutoCopy\bin\Debug\AutoCopy.exe
+D:\01.Project Visual\AutoCopy\bin\Debug\AutoCopy.pdb
+D:\01.Project Visual\AutoCopy\obj\Debug\AutoCopy.csprojAssemblyReference.cache
+D:\01.Project Visual\AutoCopy\obj\Debug\AutoCopy.Properties.Resources.resources
+D:\01.Project Visual\AutoCopy\obj\Debug\AutoCopy.csproj.GenerateResource.cache
+D:\01.Project Visual\AutoCopy\obj\Debug\AutoCopy.csproj.CoreCompileInputs.cache
+D:\01.Project Visual\AutoCopy\obj\Debug\AutoCopy.exe
+D:\01.Project Visual\AutoCopy\obj\Debug\AutoCopy.pdb
+C:\Users\Admin\Desktop\AutoCopy\AutoCopy\bin\Debug\AutoCopy.exe.config
+C:\Users\Admin\Desktop\AutoCopy\AutoCopy\bin\Debug\AutoCopy.exe
+C:\Users\Admin\Desktop\AutoCopy\AutoCopy\bin\Debug\AutoCopy.pdb
+C:\Users\Admin\Desktop\AutoCopy\AutoCopy\obj\Debug\AutoCopy.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AutoCopy\AutoCopy\obj\Debug\AutoCopy.Properties.Resources.resources
+C:\Users\Admin\Desktop\AutoCopy\AutoCopy\obj\Debug\AutoCopy.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AutoCopy\AutoCopy\obj\Debug\AutoCopy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AutoCopy\AutoCopy\obj\Debug\AutoCopy.exe
+C:\Users\Admin\Desktop\AutoCopy\AutoCopy\obj\Debug\AutoCopy.pdb
